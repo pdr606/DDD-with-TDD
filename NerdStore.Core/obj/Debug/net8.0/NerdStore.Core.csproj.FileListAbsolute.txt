@@ -1,0 +1,11 @@
+C:\Users\pedro.guarnieri\source\repos\TesteDeSoftware\NerdStore.Core\bin\Debug\net8.0\NerdStore.Core.deps.json
+C:\Users\pedro.guarnieri\source\repos\TesteDeSoftware\NerdStore.Core\bin\Debug\net8.0\NerdStore.Core.dll
+C:\Users\pedro.guarnieri\source\repos\TesteDeSoftware\NerdStore.Core\bin\Debug\net8.0\NerdStore.Core.pdb
+C:\Users\pedro.guarnieri\source\repos\TesteDeSoftware\NerdStore.Core\obj\Debug\net8.0\NerdStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro.guarnieri\source\repos\TesteDeSoftware\NerdStore.Core\obj\Debug\net8.0\NerdStore.Core.AssemblyInfoInputs.cache
+C:\Users\pedro.guarnieri\source\repos\TesteDeSoftware\NerdStore.Core\obj\Debug\net8.0\NerdStore.Core.AssemblyInfo.cs
+C:\Users\pedro.guarnieri\source\repos\TesteDeSoftware\NerdStore.Core\obj\Debug\net8.0\NerdStore.Core.csproj.CoreCompileInputs.cache
+C:\Users\pedro.guarnieri\source\repos\TesteDeSoftware\NerdStore.Core\obj\Debug\net8.0\NerdStore.Core.dll
+C:\Users\pedro.guarnieri\source\repos\TesteDeSoftware\NerdStore.Core\obj\Debug\net8.0\refint\NerdStore.Core.dll
+C:\Users\pedro.guarnieri\source\repos\TesteDeSoftware\NerdStore.Core\obj\Debug\net8.0\NerdStore.Core.pdb
+C:\Users\pedro.guarnieri\source\repos\TesteDeSoftware\NerdStore.Core\obj\Debug\net8.0\ref\NerdStore.Core.dll
